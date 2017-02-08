@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55ae41</color>
+    <color name="colorPrimaryDark">#55ae41</color>
+    <color name="colorMainToolbarText">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTextOffSegmentedButton">#000000</color>
+    <color name="colorTextSelectedSegmentedButton">#FFFFFF</color>
+    <color name="textItemsSettings">#000000</color>
+</resources>
